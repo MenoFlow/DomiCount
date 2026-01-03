@@ -104,7 +104,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="py-6 text-center">
         <p className="text-muted-foreground text-sm">
-          Scores sauvegardés localement
+          ANDRIANTSOA Hermenio M.
         </p>
       </footer>
     </div>
